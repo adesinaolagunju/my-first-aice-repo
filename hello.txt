@@ -1,3 +1,6 @@
 Hello World.
 Learning Git and GitHub.
 This is my first repository.
+
+
+Updating from the terminal
