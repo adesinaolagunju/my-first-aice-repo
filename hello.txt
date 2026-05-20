@@ -4,3 +4,6 @@ This is my first repository.
 
 
 Updating from the terminal
+
+I am updating this file directly from the github
+
